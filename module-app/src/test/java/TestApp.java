@@ -4,7 +4,6 @@ public class TestApp {
 	
 	@Test
 	public void testRien(){
-		System.out.println("modif app");
-		System.out.println("modif gitHub");
+		System.out.println("modif app + gitHub");
 	}
 }
